@@ -1,4 +1,4 @@
-package com.nwa.tutorial.jpa.jpatutorial;
+package com.nwa.tutorial.jpa.jpatutorial.one;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
